@@ -1,0 +1,228 @@
+# f7 preview changes
+
+# 622 CE ≈ 1 AH
+
+* Header :ignore:
+#+TITLE: Imam Hassan Al-Mujtaba
+# SUBTITLE:  Al-Mujtaba (The chosen one)
+# SUBTITLE: الحسن ابن علي ابن أبي طالب
+# DATE: << Winter 2019 >>
+# When we don't provide a date, one is provided for us.
+#+MACRO: URL https://github.com/alhassy/islam
+#+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
+# AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
+#+AUTHOR: Al-Moustafa Islamic Center @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+#+EMAIL: alhassy@gmail.com
+#+DESCRIPTION: This document is written by Musa Al-hassy for his learning in the Winter of 2019.
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+TODO: BEGIN-IGNORE(b) END-IGNORE(e) } | DONE(d)
+#+OPTIONS: d:nil
+
+#+INCLUDE: CheatSheet/CheatSheetSetup.org
+# ‼‼ Also change “URL” macro above to point to your repo.
+
+* Latex stuffs :ignore:
+#+LATEX_HEADER: \usepackage{/Users/musa/MyUnicodeSymbols/MyUnicodeSymbols}
+# LATEX_HEADER: \usepackage{arabxetex}
+
+* Family
+
+  Born in 2 AH.
+
+  \room
+  + Father ⇒ Imam Ali ibn Abi Talib
+  + Mother ⇒ Fatimah az-Zahra
+  + Grandfather ⇒ Prophet Muhammad
+
+  \room
+  He is the eldest son; his younger brother is Imam Hussein.
+
+  \room
+  - His grandfather and mother died in 10 AH, when he was 8 years old.
+  - His father died in 39 AH, when he was 37 years old.
+
+* Naming
+
+  Since Ali is to prophet Muhammad like prophet Haroon was to prophet Musa,
+  God revealed to Muhammad that Ali's son should have the same name as Haroon's son
+  ─ /shabbar/ which is ‘Hassan’ in Arabic.
+
+  \room
+  One whose is named by God is surely a rightly guided person.
+
+* Event of Mubahalah
+In 10 AH, a group of Christians disputed with the Prophet about Isa ibn Maryam, Jesus.
+
+- Like prophet Jesus, prophet Adam also had no father; moreover, he also had no mother.
+
++ They were commanded [[https://quran.com/3/61][⟨3:61⟩]] to perform /mubahalah/:
+      Each group should ask God to destroy the liars.
+
+\room
+Quran 3:61 mentions our sons, our women, and ourselves in reference
+  to who the Prophet took with him: Hassan and Hussein, Fatimah, and Ali.
+
+\room
+The Prophet has said:
+  + /Hassan and Hussein are the masters of the youth of paradise./
+  + /All the people of paradise are youths./
+
+* Piggyback on the Prophet's Shoulders
+
+  The Prophet would pick up the young Imam Hassan on this shoulders,
+  and people would say
+  /Oh son, how blessed you are with the stead you are riding./
+
+  \room
+  The Prophet would say, /How blessed I am with the rider./
+
+* Death
+
+  + Aged: 45 years old.
+    \hfill ─Poisoned by his wife Ja'da bint Al Ash'at, AH 50.
+  + Buried in Jannat al-Baqi cemetery in Medina.
+    - Which was destroyed in 1925 CE by the Wahabis, who dismiss shrines
+      as leading to polytheism, /shirk/.
+
+* COMMENT newpage :ignore:
+
+  \newpage
+
+* “What 10 things are stronger than one another?”
+
+  When asked this, Imam Hassan said:
+
+  + Among the strong things is Stone;
+  + Even stronger is the Iron which is used to break Stone;
+  + Even stronger is the Fire which melts Iron;
+  + Even stronger is the Water which entinuisghes Fire;
+  + Even stronger are Clouds that carry Water with them;
+  + Even stronger is the Air which floats the Clouds with them;
+  + Even stronger is the Angel who moves the Air;
+  + Even stronger is the Angel who will give Death to the Angel who moves the Air;
+  + Even stronger is the Death which will come upon the Angel of Death; and
+  + Even stronger is the order of Allah which governs death.
+
+* “Which creations were born without any parents?”
+
+  When a Roman ruler asked Imam Hassan this question, he replied:
+
+  There are 7 creations,
+  + Prophet Adam and his wife Hawwa.
+  + The lamb which was sent in place of the camel in place of prophet Ismael.
+  + The camel of prophet Saleh.
+  + The snake of prophet Musa.
+  + The crow that taught prophet Adams's son Qabeel the method of burial.
+  + Iblees.
+
+* Living by the Quran
+
+  A maid dropped hot soup on the Imam and was afraid of being punished,
+  she immediately read from the Quran ⟨3:134⟩:
+  + /...those who control their anger/
+
+    The Imam smiled and said he was not angry.
+
+  + /...and are forgiving towards people/
+
+    The Imam said he had forgiven her.
+
+  + /...Allah loves those who do good/
+
+    The Imam said she is free.
+
+* COMMENT Battles
+
+  Participated in Siffin, Nahrawan, and Jamal.
+
+* COMMENT Imamah
+
+  + Imamah ≈ إمـامـة‎ ≈ Leadership
+
+* Leadership
+
+He took the responsibility of /imamah/ ─leadership─ at the age of 38, after his father
+Ali was martyred.
+
+\room
+  + Muawiyah has been fighting Ali for leadership.
+  + He bribed Hassan's troops and even had him stabbed in the thigh.
+  + In 41 AH, Hassan signed a peace treaty giving leadership to Muawiyah, on the
+    condition that leadership be returned to Hassan after Muawiyah's death.
+
+    # Hassan was 38 years old?
+
+\room
+Muawiyah was publicly religious, but sinful in private.
+
+\room
+Muawiyah wanted his son Yazid to have leadership after him. Thus,
+nine years later, Muawiyah bribed Hassan's wife to poison him and he died in
+50 AH.
+
+* COMMENT Arabic LaTeX
+
+% Text before. \texturdu{مدیحہ} Text after.
+% Text before. \texturdu{مديحة} Text after.
+
+%% \centerline{\LARGE \begin{arab}[fullvoc] BASMALA \end{arab}}
+%% \centerline{\emph{In the name of God, most Gracious, most Compassionate}}
+
+\begin{arab}[utf]
+
+  أديـن بدين الحـــب أنـى تــوجـهت ركـائبه \qquad فالحـــب دينــي و إيماني\\
+ لنا أسوة في بشر هند و اختها و قيس و ليلى \qquad ثـــــم مـــــي و غـــيــــلان
+
+\end{arab}
+
+
+* COMMENT Making README.md
+
+C-c C-c: Evaluate src block.
+
+#+NAME: make-readme
+#+BEGIN_SRC emacs-lisp :results none
+(with-temp-buffer
+    (insert
+    "#+EXPORT_FILE_NAME: README.md
+     #+HTML: <h1> CheatSheet </h1>
+     #+OPTIONS: toc:nil d:nil
+     # Toc is displayed below at a strategic position.
+
+     Pretty cheat sheets, or “reference cards”, obtainable from Org-mode files.
+
+     :Hide:
+     This project is to contain a listing of common results in X Theory.
+
+     *The repo contains other articles I've written on X Theory;*
+     *which may be read in a blog-format at:*
+     https://alhassy.github.io/blog/categories/#Xtheory
+     :End:
+
+     *The listing sheet, as PDF, can be found
+     [here]({{{URL}}}/blob/master/CheatSheet.pdf)*,
+     while below is an unruly html rendition.
+
+     :Hide:
+     This reference sheet is built around the system
+     https://github.com/alhassy/CheatSheet.
+     :End:
+
+     #+TOC: headlines 2
+     #+INCLUDE: CheatSheet.org
+    ")
+    ;; (set-visited-file-name "ReadIt2.md")
+    (org-mode)
+    (org-md-export-to-markdown)
+)
+#+END_SRC
+
+* COMMENT footer
+
+# Local Variables:
+# eval: (org-babel-tangle)
+# eval: (progn (org-babel-goto-named-src-block "make-readme") (org-babel-execute-src-block) (outline-hide-sublevels 1))
+# eval: (load-file "CheatSheet.el")
+# compile-command: (my-org-latex-export-to-pdf)
+# End:
