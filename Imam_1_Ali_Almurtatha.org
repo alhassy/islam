@@ -1,0 +1,225 @@
+# f7 preview changes
+#
+# 622 CE ≈ 1 AH
+
+* Header :ignore:
+#+TITLE: Imam Ali Al-Murtatha
+# SUBTITLE:  Al-Murtatha (The chosen one)
+# SUBTITLE: عَلِي ابْن أَبِي طَالِب‎
+#+MACRO: URL https://github.com/alhassy/islam
+#+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
+# AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
+#+AUTHOR: [[https://www.almoustafacentre.ca][Al-Moustafa Islamic Center]] @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+#+EMAIL: alhassy@gmail.com
+# DESCRIPTION: This document is written by Musa Al-hassy for his learning in the  of 2019.
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+TODO: BEGIN-IGNORE(b) END-IGNORE(e) } | DONE(d)
+#+OPTIONS: d:nil
+
+#+INCLUDE: CheatSheet/CheatSheetSetup.org
+
+* Latex stuffs :ignore:
+#+LATEX_HEADER: \usepackage{/Users/musa/MyUnicodeSymbols/MyUnicodeSymbols}
+# LATEX_HEADER: \usepackage{arabxetex}
+
+* Family
+
+  Born in 601; i.e., 19 BH ---“before hijra”.
+
+  \room
+  + Birthplace ⇒ Inside the holy Kaaba
+  + Father ⇒ Abu Talib, custodian of the Kaaba
+  + Mother ⇒ Fatimah bint Asad
+  + Ancestor ⇒ Prophets Isamil, son of Ibrahim
+
+#  \room
+#  + He is the cousin and son-in-law of Prophet Muhammad.
+
+#  \room
+#  - /Ali is the door to the city of knowledge./
+
+* COMMENT Naming
+
+  + The Prophet named him /Ali/, “the exalted one”.
+
+  + /Haydar/: Lion of God
+  + /Amir al-Mumanieen/: Leader of the God-conscious; Commander of the faithful.
+
+* Childhood
+  + The Prophet named him /Ali/, “the exalted one”.
+  + At the age of 5, the Prophet took him into his house to raise him.
+  + At the age of 9, the Prophet announced his prophethood and Ali was
+    the first male to accept Islam; the second person after Khadija, the Prophet's wife,
+    to accept Islam.
+
+ \room
+ /Ali and the Quran ‘grew up’ together as ‘twins’ in the house of Muhammad./
+
+* Event of Da'wat Al-Ashera ---Inviting Kinsfolk
+
+  The Prophet invited people to Islam privately for 3 years, then God told him
+  to invite his relatives.
+
+  + He invited his relatives, the Banu Hashim clan, to a banquet.
+  + He announced his prophethood and asked, three times, who would join him.
+  + Only Ali responded to the calls.
+
+  \room
+  The Prophet said, /this [Ali] is my wazir, my successor, and my vicegerent;/
+  /listen to him and obey his commands./
+
+* Migration to Medina
+In 1 AH, during the hijrah ---migration-- to Medina, Ali risked his life by
+  sleeping in Muhammad's bed to impersonate him to thwart an assassination plot on
+  the Prophet.
+
+\room
+He risked his life further by staying in Mecca to return to its owners the property
+that was entrusted to the Prophet.
+
+\room
+Some object to Ali's leadership due to his young age, yet the Prophet entrusted him
+this important task at the young age of 24.
+
+\room
+In Medina, to foster good relations, the Prophet paired travellers with residents of
+Medina as ‘brothers’ and he selected Ali as his brother, saying
+/Ali and I belong to the same tree./
+
+* Death
+
+  + Aged: 59 years old.
+    \hfill ─Attacked while praying in the Great Kufa Mosque;
+    martyred two days later; 21 Ramadan, 40 AH.
+
+  + Buried in Imam Ali Mosque, Najaf, Iraq.
+
+# \room
+# Since Muwaiyah took power producing a dynasty, the “Umayyad Caliphate”,
+# they ordered the cursing of Ali in the Friday prayers for the next 60 years.
+
+* Battles
+
+  + He took part in all of the battles, except Tabouk, and was
+    the flag bearer for the Prophet.
+
+  + 3 AH: When the Muslims fled at Uhud, Ali was the one to protect the Prophet.
+
+    /There is no youth like Ali, and no sword like Zulfiqar./
+
+  + 5 AH: At the battle of the trench, “al-khandaq”, Ali defeated a lengendary fighter
+    and the Prophet said:
+    /Ali's strike on Amr ibn Abd al-Wud is greater than the worship of both/
+    /mankind and jinn until the Day of Judgement./
+
+* Event of Mubahalah
+In 10 AH, a group of Christians disputed with the Prophet about Isa ibn Maryam, Jesus.
+
+- Like prophet Jesus, prophet Adam also had no father; moreover, he also had no mother.
+
++ They were commanded [[https://quran.com/3/61][⟨3:61⟩]] to perform /mubahalah/:
+      Each group should ask God to destroy the liars.
+
+\room
+Quran 3:61 mentions our sons, our women, and ourselves in reference
+  to who the Prophet took with him: Hassan and Hussein, Fatimah, and Ali.
+  The Prophet with this group are referred to as the /Ahly al Bayt/,
+  [[https://quran.com/33/33][Quran 33:33]].
+
+\room
+The Prophet has said:
+  + /Hassan and Hussein are the masters of the youth of paradise./
+  + /All the people of paradise are youths./
+
+* Event of Ghadir Khumm
+
+ + During his final pilgrimage, AH 10, the Prophet stopped his caravan at the pond of Khumm.
+
++ He raised Ali's arm and said, /Whosoever I am his master, this Ali is his master./
+  Then said, /He is the successor of the Messenger of Allah./
+
+* Later Life
+
+  + The Prophet died in AH 10.
+
+  + As Ali prepared his body for burial, Abu Bakr obtained political power at
+    the Saqifah building in Medina.
+
+  + Abu Bakr ordered Umar ibn Al-Khattab to obtain allegiance from Ali.
+
+  + Umar and his supporters went to Ali's house then burned the main door,
+    thereby crushing Fatimah between the door and the wall.
+
+    - This caused Fatimah's unborn child, Muhsin, to die;
+      and caused her death shortly after.
+
+\room
+Ali pledged allegiance only for the sake of unity of the Muslim community.
+
+\room
+Ali was later given political power in AH 34.
+- Unwilling to compromise his principles for politics, he  dismissed unjust governors.
+- Muwaiyah, governor of the Levant, refused to listen to Ali. He eventually takes
+  power and forms a dynasty, the “Umayyad Caliphate”, which would curse Ali
+  in the Friday prayers for the next 60 years.
+
+:Muwaiyah:
+- Muwaiyah, governor of the Levant, refused to listen to Ali.
+- Muawiyah would later take power from Hassan, son of Ali, and cause his death.
+- Yazid, son of Muawiyah, would later cause the slaughter of Hussein, son of Ali.
+:End:
+
+* COMMENT newpage :ignore:
+
+  \newpage
+
+* COMMENT Making README.md
+
+C-c C-c: Evaluate src block.
+
+#+NAME: make-readme
+#+BEGIN_SRC emacs-lisp :results none
+(with-temp-buffer
+    (insert
+    "#+EXPORT_FILE_NAME: README.md
+     #+HTML: <h1> CheatSheet </h1>
+     #+OPTIONS: toc:nil d:nil
+     # Toc is displayed below at a strategic position.
+
+     Pretty cheat sheets, or “reference cards”, obtainable from Org-mode files.
+
+     :Hide:
+     This project is to contain a listing of common results in X Theory.
+
+     *The repo contains other articles I've written on X Theory;*
+     *which may be read in a blog-format at:*
+     https://alhassy.github.io/blog/categories/#Xtheory
+     :End:
+
+     *The listing sheet, as PDF, can be found
+     [here]({{{URL}}}/blob/master/CheatSheet.pdf)*,
+     while below is an unruly html rendition.
+
+     :Hide:
+     This reference sheet is built around the system
+     https://github.com/alhassy/CheatSheet.
+     :End:
+
+     #+TOC: headlines 2
+     #+INCLUDE: CheatSheet.org
+    ")
+    ;; (set-visited-file-name "ReadIt2.md")
+    (org-mode)
+    (org-md-export-to-markdown)
+)
+#+END_SRC
+
+* COMMENT footer
+
+# Local Variables:
+# eval: (org-babel-tangle)
+# eval: (progn (org-babel-goto-named-src-block "make-readme") (org-babel-execute-src-block) (outline-hide-sublevels 1))
+# eval: (load-file "CheatSheet.el")
+# compile-command: (org-latex-export-to-pdf)
+# End:
