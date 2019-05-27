@@ -9,7 +9,8 @@
 #+MACRO: URL https://github.com/alhassy/islam
 #+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
 # AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
-#+AUTHOR: [[https://www.almoustafacentre.ca][Al-Moustafa Islamic Center]] @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+# AUTHOR: [[https://www.almoustafacentre.ca][Al-Moustafa Islamic Center]] @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+#+AUTHOR: @@latex:{\tiny \hspace{0em}\url{ {{{URL}}} } }@@
 #+EMAIL: alhassy@gmail.com
 # DESCRIPTION: This document is written by Musa Al-hassy for his learning in the  of 2019.
 #+STARTUP: hideblocks
@@ -31,7 +32,7 @@
   + Birthplace ⇒ Inside the holy Kaaba
   + Father ⇒ Abu Talib, custodian of the Kaaba
   + Mother ⇒ Fatimah bint Asad
-  + Ancestor ⇒ Prophets Isamil, son of Ibrahim
+  + Ancestor ⇒ Prophet Isamil, son of Ibrahim
 
 #  \room
 #  + He is the cousin and son-in-law of Prophet Muhammad.
@@ -47,7 +48,7 @@
   + /Amir al-Mumanieen/: Leader of the God-conscious; Commander of the faithful.
 
 * Childhood
-  + The Prophet named him /Ali/, “the exalted one”.
+  # + The Prophet named him /Ali/, “the exalted one”.
   + At the age of 5, the Prophet took him into his house to raise him.
   + At the age of 9, the Prophet announced his prophethood and Ali was
     the first male to accept Islam; the second person after Khadija, the Prophet's wife,
@@ -154,8 +155,8 @@ The Prophet has said:
     - This caused Fatimah's unborn child, Muhsin, to die;
       and caused her death shortly after.
 
-\room
-Ali pledged allegiance only for the sake of unity of the Muslim community.
+# \room
+# Ali pledged allegiance only for the sake of unity of the Muslim community.
 
 \room
 Ali was later given political power in AH 34.
