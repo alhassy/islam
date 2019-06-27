@@ -1,3 +1,5 @@
+# Need an md file for the live github-page to work easily.
+#
 # (org-md-export-to-markdown)
 #
 # Notes about stuff I'm learning regarding islam :-)
@@ -16,7 +18,7 @@
 + [[file:Imam_6_Jaafar_AlSadiq.pdf][Imam Jaafar Al-Sadiq, “the truthful”]]
 
 
----
+#+HTML: ***
 
 
 + [[https://quran.com/2/256][⟪Quran 2:256⟫]] :: /There is no compulsion in faith./
