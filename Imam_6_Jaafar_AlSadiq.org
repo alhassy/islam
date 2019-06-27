@@ -1,0 +1,233 @@
+# f7 preview changes
+#
+# 622 CE ≈ 1 AH
+
+* Header :ignore:
+#+TITLE: Imam Jaafar Al-Sadiq
+#+SUBTITLE:  ---\emph{The Truthful}---
+# SUBTITLE:  Al-Sadiq (The Truthful)
+# SUBTITLE: جعفر بن محمد الصادق‎
+#+MACRO: URL https://github.com/alhassy/islam
+#+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
+# AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
+#+AUTHOR: [[https://www.almoustafacentre.ca][Al-Moustafa Islamic Center]] @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+# AUTHOR: @@latex:{\tiny \hspace{0em}\url{ {{{URL}}} } }@@
+#+EMAIL: alhassy@gmail.com
+# DESCRIPTION: This document is written by Musa Al-hassy for his learning in the  of 2019.
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+TODO: TODO | space
+#+OPTIONS: d:nil
+
+#+INCLUDE: CheatSheet/CheatSheetSetup.org
+
+* Latex stuffs :ignore:
+#+LATEX_HEADER: \usepackage{/Users/musa/MyUnicodeSymbols/MyUnicodeSymbols}
+#+LATEx_HEADER: \newunicodechar{ᵗ}{\ensuremath{^t}}
+#+LATEx_HEADER: \newunicodechar{ʰ}{\ensuremath{^h}}
+# LATEX_HEADER: \usepackage{arabxetex}
+
+* Family
+
+  Born on 17ᵗʰ of Rabia al-Awal in 702 CE; i.e., 83 AH ---“after hijra”.
+
+  \room
+  + Birthplace ⇒ Medina, Umayyad Empire
+  + Father ⇒ Muhammad Al-Baqir, “the one who opens knowledge”, 5ᵗʰ Imam
+  + Mother ⇒ Farwah bint Al-Qasim
+    - Grand-daughter of Muhammad ibn Abu Bakr, Imam Ali's adopted son
+  + He is a direct descendant of Prophet Muhammad
+
+* Upbringing
+
+  + At the age of 12, his grand-father 4ᵗʰ Imam Al-Sajjad Zayn Al-Abedin
+    ---“the prostrating Imam, the adornment of the worshippers”--- was poisoned in 95 AH by Ummayad caliph Al-Walid ibn Abd Al-Malik.
+
+  + At the age of 34, in 117 AH, his father is poisoned by Ummayad caliph
+    Hisham ibn Abd al-Malik.
+
+  + He becomes Imam for the next 28 years.
+
+* Children
+
+  + First wife ⇒ Fatimah Al-Hasan, a descdendant of Imam Al-Hasan ibn Ali.
+    - They had two sons before she passed away:
+    - Ismail who inspires an Islamic branch,
+        then Abdullah al-Aftah “the broad”.
+  + Second wife ⇒ Hamidah Khatun, “the pure”.
+   - They had two sons: Musa al-Kadim “the one who controls his anger”, the 7ᵗʰ Imam,
+     then Muhammad al-Dibaj “the handsome”.
+
+* The Abbasids Caliphate
+
+# https://en.wikipedia.org/wiki/List_of_Caliphs
+
++ The Ummayad Caliphate:
+  - Muawiyah ibn Abi Sufyan attacked Imam Ali at the battle of Siffin.
+  - He became 6ᵗʰ caliph and eventually killed the 5ᵗʰ caliph, Imam Hassan ibn Ali.
+
+   :All-Ummayad_caliphs:
+  - Caliphes: Muawiya I → Yazid I → Muwaiya II → Marwan I, ibn Hakm → Abd al-Malik
+    → Al-Walid I → Sulayman ibn Abd Al-Malik → Umar II → Yazid II → Hisham ibn Abd Al-Malik
+    → Al-Walid II → Yazid III → Ibrahim ibn Al-Walid → Marwan II
+
+   # Sufyanids ⇒ 661-684 ;; Marwanids ⇒ 684-750
+  :End:
+
++ The 6ᵗʰ Imam lived in the time of Ummayad Caliphs from  Marwan I, ibn Al-Hakm,
+  until the end of the dynasty with Marwan II.
+  # Marwan II is grandson of Marwan I.
+
++ The Abbasids, descendants of Al-Abbas, the Prophet's uncle, seized control in 750 CE.
+
++ The 6ᵗʰ Imam was neutral: He did not pursue power nor did he aid others, such as the Abbasids, in doing so.
+
+* COMMENT space newpage                                                      :ignore:
+
+  \newpage
+* The Islamic Academy
+
+  + Being neutral, the 6ᵗʰ Imam was able to teach in a school that trained 4000 students, including:
+    - Abu Hanifa and Malik ibn Anas, who later each founded a school of law.
+    - Wasil ibn Ata, who later founds the Mutazila, “rationalist”, school.
+
+  + The Imam's lessons ranged from theology to the physical sciences.
+    - One of his students is Jabir ibn Hayyan, the father of early chemistry.
+
+  + The number of traditions left behind by the Imam and his father were more than
+    all those of the Prophet and the other Imams.
+
+  + Imam Al-Sadiq is thus an important figure in multiple branches of Islam.
+
+  \room
+  Al-Sadiq, like his predecessor Imam Ali, is considered by Sufis to
+  have great spiritual knowledge.
+
+* Decisions ---\emph{al-amr bayn al-amrayn}
+
++ The Imam says that God decreed some things absolutely
+  but other things were left for humans to decide.
+
++ Not predestination but not complete free will either, instead
+    somewhere in the middle.
+
+* Quranic Interpretation
+
+ The Imam says there are four ways to view the Quran:
+
+ 1. The plain statements ---for the common people
+ 2. The implied intent ---for the elite, the intellects
+ 3. The hidden meanings ---for the ‘friends of God’
+ 4. The exalted spiritual doctrines ---these are the ‘province of the prophets’
+
+* Attempting to End Imamah
+
+  + Fearing he would take power as Imam, the Abbasids harassed him.
+    - They burned his home and occasionally imprisoned him.
+
+  + After the Imam died, Al-Mansur ordered that whoever was
+    named as the next Imam in Al-Sadiq's testament would be killed.
+
+  + Imam Al-Sadiq's testament named four people; in order:
+    The caliph Al-Mansur, the governor of Medina, his eldest son Abdullah,
+    then his younger son Musa.
+
+
+* Death
+
+  + Aged: 65 years old
+    # \hspace{1em} ---
+    - Poisoned at the order of the second Abbasid caliph, al-Mansur.
+
++ Like 3 Imams before him, he was buried in Jannat Al-Baqi in Medina, Saudi Arabia.
+    - Which was destroyed in 1925 CE by the Wahabis, who dismiss shrines
+      as leading to polytheism, /shirk/.
+
+* space newpage                                                      :ignore:
+
+  \newpage
+* Quotes
+
+0. /If you see something you don't like in your brother try to find/
+   /from one to seventy excuses for him. If you can't find an excuse, say,/
+
+   #+latex: \centerline{\emph{‘There might be an excuse but I don't know it.’}}
+
+0. /One of the deeds God almighty appreciates the most is making his/
+  /pious servants happy. This can be done through fulfilling their hunger,/
+  /sweeping away their sorrows, or paying off their debts./
+
+  # 0. /Paying visits to ones own relatives prolongs the life of a person and prevents poverty and indigence./
+
+0. /Write knowledge since you can’t memorize unless with writing./
+   \newline
+   /Heart confides to the written./
+
+0. /Everything has its tax and the tax of knowledge is to teach its people./
+
+0. /Being cheerful and affable (friendly) with people is by itself half of wisdom./
+
+0. /Everything has a foundation, and the foundation of Islām is our affection for the household of our Prophet./
+
+0. /The one who visits the grave of Imam Husayn knowing his right (of Imāmat),/
+   /then it is as if he has visited God on the throne./
+
+* space newpage                                                      :ignore:
+
+  \newpage
+* Further Readings
+  + Al-Islam
+    - https://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/sixth-imam-jafar-ibn-muhammad-sadiq
+  + WikiShia
+    - http://en.wikishia.net/view/Imam_Ja%27far_b._Muhammad_al-Sadiq_(a)
+  + Biography of Imam Jafar Sadiq by Sayed Ammar Nakshawani
+    - https://www.youtube.com/watch?v=c8vBnoVjdOw
+* COMMENT Making README.md
+
+C-c C-c: Evaluate src block.
+
+#+NAME: make-readme
+#+BEGIN_SRC emacs-lisp :results none
+(with-temp-buffer
+    (insert
+    "#+EXPORT_FILE_NAME: README.md
+     #+HTML: <h1> CheatSheet </h1>
+     #+OPTIONS: toc:nil d:nil
+     # Toc is displayed below at a strategic position.
+
+     Pretty cheat sheets, or “reference cards”, obtainable from Org-mode files.
+
+     :Hide:
+     This project is to contain a listing of common results in X Theory.
+
+     *The repo contains other articles I've written on X Theory;*
+     *which may be read in a blog-format at:*
+     https://alhassy.github.io/blog/categories/#Xtheory
+     :End:
+
+     *The listing sheet, as PDF, can be found
+     [here]({{{URL}}}/blob/master/CheatSheet.pdf)*,
+     while below is an unruly html rendition.
+
+     :Hide:
+     This reference sheet is built around the system
+     https://github.com/alhassy/CheatSheet.
+     :End:
+
+     #+TOC: headlines 2
+     #+INCLUDE: CheatSheet.org
+    ")
+    ;; (set-visited-file-name "ReadIt2.md")
+    (org-mode)
+    (org-md-export-to-markdown)
+)
+#+END_SRC
+
+* COMMENT footer
+
+# Local Variables:
+# eval: (org-babel-tangle)
+# eval: (progn (org-babel-goto-named-src-block "make-readme") (org-babel-execute-src-block) (outline-hide-sublevels 1))
+# eval: (load-file "CheatSheet.el")
+# compile-command: (org-latex-export-to-pdf)
+# End:
