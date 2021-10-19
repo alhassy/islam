@@ -1,5 +1,3 @@
-# f7 preview changes
-#
 # 622 CE ≈ 1 AH
 
 * Header :ignore:
@@ -7,13 +5,11 @@
 #+SUBTITLE:  ---\emph{The Truthful}---
 # SUBTITLE:  Al-Sadiq (The Truthful)
 # SUBTITLE: جعفر بن محمد الصادق‎
-#+MACRO: URL https://github.com/alhassy/islam
-#+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
-# AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
-#+AUTHOR: [[https://www.almoustafacentre.ca][Al-Moustafa Islamic Center]] @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
-# AUTHOR: @@latex:{\tiny \hspace{0em}\url{ {{{URL}}} } }@@
+#+MACRO: URL http://alhassy.github.io/islam
+#+MACRO: ShowURL @@latex:{\tiny\hspace{9.3em}\url{ {{{URL}}} } }@@
+#+AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
 #+EMAIL: alhassy@gmail.com
-# DESCRIPTION: This document is written by Musa Al-hassy for his learning in the  of 2019.
+#+DESCRIPTION: This document is written by Musa Al-hassy for his learning in 2019.
 #+STARTUP: hideblocks
 #+STARTUP: overview
 #+TODO: TODO | space
@@ -29,7 +25,8 @@
 
 * Family
 
-  Born on 17ᵗʰ of Rabia al-Awal in 702 CE; i.e., 83 AH ---“after hijra”.
+  + Born on 17ᵗʰ of Rabia al-Awal in 702 CE; i.e., 83 AH ---“after hijra”.
+    - Twenty-two years after the Karabla Tragedy, 61 AH.
 
   \room
   + Birthplace ⇒ Medina, Umayyad Empire
@@ -43,10 +40,10 @@
   + At the age of 12, his grand-father 4ᵗʰ Imam Al-Sajjad Zayn Al-Abedin
     ---“the prostrating Imam, the adornment of the worshippers”--- was poisoned in 95 AH by Ummayad caliph Al-Walid ibn Abd Al-Malik.
 
-  + At the age of 34, in 117 AH, his father is poisoned by Ummayad caliph
+  + At the age of 31, his father is poisoned by Ummayad caliph
     Hisham ibn Abd al-Malik.
 
-  + He becomes Imam for the next 28 years.
+  + He becomes Imam for the next 34 years.
 
 * Children
 
@@ -86,6 +83,8 @@
 
   \newpage
 * The Islamic Academy
+
+# ??? his knowledge concerned the exoteric (al-ẓāher), the esoteric (al-bāṭen), and the esoteric of the esoteric (bāṭen al-bāṭen)
 
   + Being neutral, the 6ᵗʰ Imam was able to teach in a school that trained 4000 students, including:
     - Abu Hanifa and Malik ibn Anas, who later each founded a school of law.
@@ -132,11 +131,11 @@
     The caliph Al-Mansur, the governor of Medina, his eldest son Abdullah,
     then his younger son Musa.
 
-
 * Death
 
   + Aged: 65 years old
     # \hspace{1em} ---
+    # 148 AH
     - Poisoned at the order of the second Abbasid caliph, al-Mansur.
 
 + Like 3 Imams before him, he was buried in Jannat Al-Baqi in Medina, Saudi Arabia.
@@ -169,19 +168,57 @@
 
 0. /Everything has a foundation, and the foundation of Islām is our affection for the household of our Prophet./
 
-0. /The one who visits the grave of Imam Husayn knowing his right (of Imāmat),/
+0. /The one who visits the grave of Imam Husayn knowing his right (of Imamah),/
    /then it is as if he has visited God on the throne./
 
 * space newpage                                                      :ignore:
 
   \newpage
-* Further Readings
-  + Al-Islam
-    - https://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/sixth-imam-jafar-ibn-muhammad-sadiq
-  + WikiShia
-    - http://en.wikishia.net/view/Imam_Ja%27far_b._Muhammad_al-Sadiq_(a)
-  + Biography of Imam Jafar Sadiq by Sayed Ammar Nakshawani
-    - https://www.youtube.com/watch?v=c8vBnoVjdOw
+* Videos & Further Readings
+
+  + Videos about Imam Al Sadiq, The Great Scientist and Philosopher
+    - [[https://www.youtube.com/watch?v=9PPVqbHBP2A&t=1s][5 minute animation by Islamic Lessons Made Easy]] ---it's really good!
+    - [[https://www.youtube.com/watch?v=_oq5YmVMii0&t=48s][15 minute biography]]
+    - [[https://www.youtube.com/watch?v=jACJZSxVM4g&t=33s][18 minute summary of scientific contributions]]
+    - [[https://www.youtube.com/watch?v=c8vBnoVjdOw][One hour long lecture by Sayed Ammar Nakshawani]]
+
+    # The Martyrdom of Imam Ja'far al Sadiq (as) - Dr Sayed Ammar Nakshawani - Part 1 ;; https://www.youtube.com/watch?v=y7Tmjn89KbQ&t=7s
+    #
+    # Imam jafar Sadiq a.s by Moulana Ali Raza rizvi ;; https://www.youtube.com/watch?v=BFKepnGc7RM&t=525s
+    #
+    # Imam Sadiq on How to Spread the Message of God by Sheikh Shomali, 24/09/2011, Shrine of Lady Masumah ;; https://www.youtube.com/watch?v=EpQHc5PrsRk&t=8s
+
+  + [[https://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/sixth-imam-jafar-ibn-muhammad-sadiq][Al-Islam]]
+
+  + [[http://en.wikishia.net/view/Imam_Ja%27far_b._Muhammad_al-Sadiq_(a)][WikiShia]]
+
+  + [[http://www.ezsoftech.com/stories/default.asp][Moral Stories: Narratives, Anecdotes, Short Stories for general public, young and old alike]]
+
+    - [[http://www.ezsoftech.com/islamic/infallible8a.asp][Islamic Occasions]]
+
+* COMMENT Talk
+  1. Family; relationship to the first and last caliph.
+  2. Children
+  3. Abbasid rule and the Imam's neutral stance
+  4. Stories
+     - The Imam's reply to the man who put dirt in a cup wherein worms grew
+       and claimed he ‘created’ them.
+     - The Imam's reply to the man who claimed there is no Creator?
+       * If I was not created by anyone-else,
+         then could I have created myself?
+     - The Imam suggesting “not troubling people unnecessarily” and that
+       intimidation is the way of the Ummayyads, re: the convert who was pulled into prayer unexpectedly.
+     - The Imam's university and notable students.
+     - Student Shaikh Buhlul throwing mud at the man, Abu Hanifa, who says
+       there is no free will, fire such as the devil cannot be injured
+       by the fire, and that which exists, such as God, must be seen.
+       - Buhhlul claims he cannot be blamed since, according to the man,
+         he has no free will, the man is made from mud and so should not
+         have received pain, and the pain cannot exist since it is not seen.
+     - Al-Mansur asks the Imam why the Imam doesn't want to be near him,
+       the caliph?
+  5. The death of the Imam.
+
 * COMMENT Making README.md
 
 C-c C-c: Evaluate src block.
