@@ -1,0 +1,162 @@
+#+TITLE: Prophet Muhammad
+#+SUBTITLE: @@latex:{\small{\sc A Mercy for Humanity}}@@
+# +subtitle: The Seal of the Prophets
+#+DATE: October 2021
+#+MACRO: URL https://al-hujjat.ca/
+#+MACRO: ShowURL @@latex:{\tiny\hspace{6em}\url{ {{{URL}}} } }@@
+# AUTHOR: [[http://www.cas.mcmaster.ca/~alhassm/][Musa Al-hassy]] {{{ShowURL}}}
+#+AUTHOR: Al-Hujjat Study Center @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
+#+EMAIL: alhassy@gmail.com
+#+DESCRIPTION: This document is written by the Al-hujjat Volunteer Team for the celebration of the birth of the blessed Prophet
+#+INCLUDE: ~/CheatSheet/CheatSheetSetup.org
+
+* Latex stuffs :ignore:
+#+LATEX_HEADER: \usepackage{/Users/musa/unicode-sty/unicode}
+# LATEX_HEADER: \usepackage{arabxetex}
+
+* Family
+
+  # Aliases: CE ≈ AD
+  # 622 CE ≈ 1 AH
+  #
+  Born in 570 [[https://simple.wikipedia.org/wiki/][CE]]; in /the Year of the Elephant/ [[https://quran.com/105][⟨Quran 105⟩]].
+
+  \room
+  + Father ⇒ Abd Allah ibn Abd al-Muttalib
+  + Mother ⇒ Amina bint Wahb
+  + Wife ⇒ Khadija bint Khuwaylid ---the first woman to accept Islam
+    - The Prophet's line is continued /only/ through their daughter [[https://www.al-islam.org/fatima-gracious-abu-muhammad-ordoni][Fatima]] ---who
+      married Imam Ali, the first man to accept Islam
+    - Khadija and Fatima are two of /the four ladies of heaven/
+    # https://www.muslim.sg/articles/4-women-of-paradise
+
+
+#+latex: \vspace{1em}
+
+* Childhood
+
+  He became an orphan at the age of 6, then his grandfather Abd Al-Muttalib took
+  care of him, then his uncle Abu Talib took care of him and his aunt Fatima
+  bint Asad essentially became his mother.
+
+  \room
+  Later the Prophet joined his uncle on business trips and gained the title
+  Al-Sadiq Al-Amin ---/the truthful and trustworthy one/.
+
+#+latex: \vspace{1em}
+
+* Nicknames
+
+# +latex: {\color{white}.}\vspace{-1em}
+
+# Increase space between rows
+#+latex: \renewcommand{\arraystretch}{2}
+
+  #+ATTR_LaTeX: :align |l|c|l|
+  |----------------------+---+--------------------------------------------------|
+  | Rasool Allah         | ≈ | /messenger of God/                                 |
+  |----------------------+---+--------------------------------------------------|
+  | Al-Sadiq Al-Amin     |   | /the truthful and trustworthy one/                 |
+  |----------------------+---+--------------------------------------------------|
+  | Al-Mustafa           |   | /the chosen/                                       |
+  |----------------------+---+--------------------------------------------------|
+  | Habib Allah          |   | /God's beloved/                                    |
+  |----------------------+---+--------------------------------------------------|
+  | Khiyarat Khalq Allah |   | /the best of God's creations/                      |
+  |----------------------+---+--------------------------------------------------|
+  | Sayyid al-Mursalin   |   | /master of the prophets/                           |
+  |----------------------+---+--------------------------------------------------|
+  | Khatam al-Nabiyyin   |   | /the last of the prophets/ [[https://quran.com/33/40][⟨33:40⟩]]                 |
+  |----------------------+---+--------------------------------------------------|
+  | Rahmat li-l-'Alamin  |   | /a blessing for the worlds/ [[https://quran.com/21/107][⟨21:107⟩]]               |
+  |----------------------+---+--------------------------------------------------|
+  | Al-Nabi al-Ummi      |   | /the unschooled prophet/ [[https://quran.com/7/158][⟨7:158⟩]] ([[https://www.al-islam.org/unschooled-prophet-murtadha-mutahhari][/Al-Islam!/]]) |
+  |----------------------+---+--------------------------------------------------|
+
+
+#+latex: \vfill
+* A quick look at the Prophet's life
+
+#+latex: {\color{white}.}\vspace{-1em}
+
+... /“age” ⇒ “event”/ ...
+
+  + 6 ⇒ Became an orphan
+
+  + 25 ⇒ Marries the businesswoman Khadija
+
+  + 35 ⇒ Birth of Fatima [[https://quran.com/108][⟨108⟩]] ([[https://www.al-islam.org/fatima-zahra-noble-quran-naser-makarem-shirazi][/Al-Islam!/]])
+
+  + 40 ⇒ The angel Gabriel visited Muhammad requesting him to /recite/ [[https://quran.com/96][⟨96:1⟩]]
+
+  + 43 ⇒ /Dawat al-ashira/; the Prophet began to publicly invite people to Islam,
+    starting with his family [[https://quran.com/26/214][⟨26:214⟩]]
+    # https://questionsonislam.com/question/how-did-prophet-pbuh-declare-his-prophethood-and-call-his-relatives-islam-first-phase-his
+
+  + 49 ⇒ The Prophet travels to Jerusalem [[https://quran.com/17][⟨17⟩]] and to heaven [[https://quran.com/53][⟨53⟩]]
+
+  + 50 (“1 AH” / 622 CE) ⇒ Emigration from Mecca to Medina/Yathrib
+    [[https:/(reported ascension to heaven to meet God)/quran.com/16/41][⟨16:41⟩]]
+    # https://www.dar-alifta.org/Foreign/ViewArticle.aspx?ID=1797&CategoryID=5
+
+  + 53, 54, 56 ⇒ Battles of Badr [[https://quran.com/3/121-127][⟨3:121-127⟩]], Uhud [[https://quran.com/4/88][⟨4:88⟩]], and Al-Khandaq (the
+    siege of Medina) [[https://quran.com/33/][⟨33⟩]]
+
+  + 57 ⇒ The signing of the /Treaty of Hudaybiyyah/ [[https://quran.com/48/1][⟨48:1⟩]]
+
+  + 59 ⇒ The conquest of Mecca ---without any bloodshed!  [[https://quran.com/28/85][⟨28:85⟩]] ([[https://www.al-islam.org/message-jafar-subhani/chapter-48-conquest-makkah][/Al-Islam!/]])
+
+  + 60 ⇒ /The Event of Mubahalah/ [[https://quran.com/3/61][⟨3:61⟩]] ([[https://www.al-islam.org/articles/event-or-eid-al-mubahalah][/Al-Islam!/]])
+
+  + 61, 62, 63 ⇒ Farewell pilgrimage, event of Ghadir Khumm [[https://quran.com/5/67][⟨5:67⟩]] [[https://quran.com/5/3][⟨5:3⟩]], and
+    death ---in what is now Saudi Arabia
+
+  */Look!/* Your left hand has the number 81, in Arabic, on it; and the right has
+  18 on it.  The Prophet's age is $81 - 18 = 63$!  /Also/, Allah has 99 names:
+  $81 + 18 = 99$!
+
+# Imam Hassan:
+#  + Buried in Jannat al-Baqi cemetery in Medina.
+#    - Which was destroyed in 1925 CE by the Wahabis, who dismiss shrines
+#      as leading to polytheism, /shirk/.
+
+
+#+latex: \vfill
+
+
+#+latex: \vspace{1em}
+* Event of Mubahalah
+In 10 AH, a group of Christians disputed with the Prophet about Isa ibn Maryam, Jesus.
+
+- Like prophet Jesus, prophet Adam also had no father; moreover, he also had no mother.
+
++ They were commanded [[https://quran.com/3/61][⟨3:61⟩]] to perform /mubahalah/:
+      Each group should ask God to destroy the liars.
+
+\room
+Quran 3:61 mentions our sons, our women, and ourselves in reference
+  to who the Prophet took with him: Hassan and Hussein, Fatimah, and Ali.
+
+\room
+The Prophet has said:
+  + /Hassan and Hussein are the masters of the youth of paradise./
+  + /All the people of paradise are youths./
+
+# Imam Sadiq has said that [[https://quran.com/16/16][⟨16:16⟩]] means the Prophet is the star and the landmarks
+# are the Imams.
+
+
+#+latex: \vspace{1em}
+* Further Islamic Stories from /Al-Islam.org/
+
++ [[https://www.al-islam.org/stories-bahlool][Stories of Bahlool]]
++ [[https://www.al-islam.org/stories-prophets][Stories of The Prophets]]
++ [[https://www.al-islam.org/islamic-stories][Stories from the lives of the Prophets, Imams, and Companions]]
++ [[https://www.al-islam.org/story-holy-kaaba-and-its-people-smr-shabbar][Story of the Holy Ka’aba And its People]]
++ [[https://www.al-islam.org/short-stories-amina-bint-al-huda][Short Stories by Amina bint Al-huda]] ---she is the sister of Ayatullah Sayyid
+  Mohammad Baqir al-Sadr and she is an activist who created Islamic awareness
+  among the Muslim women of Iraq.
+
+* COMMENT newpage :ignore:
+
+  \newpage
