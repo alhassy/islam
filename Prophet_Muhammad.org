@@ -8,11 +8,39 @@
 #+AUTHOR: Al-Hujjat Study Center @@latex:{\tiny\hspace{4em}\url{ {{{URL}}} } }@@
 #+EMAIL: alhassy@gmail.com
 #+DESCRIPTION: This document is written by the Al-hujjat Volunteer Team for the celebration of the birth of the blessed Prophet
-#+INCLUDE: ~/CheatSheet/CheatSheetSetup.org
+
 
 * Latex stuffs :ignore:
+
+#+INCLUDE: ~/CheatSheet/CheatSheetSetup.org
+
 #+LATEX_HEADER: \usepackage{/Users/musa/unicode-sty/unicode}
 # LATEX_HEADER: \usepackage{arabxetex}
+
+** Arabic                                                :Latex_setup:ignore:
+
+ # Setup: https://www.overleaf.com/learn/latex/Arabic
+
+ #+latex_header: \usepackage{arabtex}
+ #+latex_header:   \usepackage{utf8}
+ #+latex_header: \setcode{utf8}
+
+
+ # Here is the word ``Arabic'' written in Arabic:
+ # You can also use the command \verb|\RL{arabic text}| like this: \RL{اَلْعَرَبيَّةُ}.
+ # and \RL{(ع)}
+
+ # There is a known issue about working with arabtex and multicols; the solution
+ # is to use \mbox for arabic \RL content.
+ # https://tex.stackexchange.com/questions/220918/conflict-between-multicol-and-arabtex
+ #
+ #+macro: A @@latex:${}^\text{\mbox{\tiny{\RL{(ع)}}}}$@@
+ #+macro: S @@latex:${}^\text{\mbox{\tiny{\RL{(ص)}}}}$@@
+
+ # Example usage:
+
+ # this {{{A}}}
+ # and {{{S}}}
 
 * Family
 
@@ -25,32 +53,33 @@
   + Father ⇒ Abd Allah ibn Abd al-Muttalib
   + Mother ⇒ Amina bint Wahb
   + Wife ⇒ Khadija bint Khuwaylid ---the first woman to accept Islam
-    - The Prophet's line is continued /only/ through their daughter [[https://www.al-islam.org/fatima-gracious-abu-muhammad-ordoni][Fatima]] ---who
+    - The Prophet's {{{S}}} line is continued /only/ through their daughter [[https://www.al-islam.org/fatima-gracious-abu-muhammad-ordoni][Fatima]] ---who
       married Imam Ali, the first man to accept Islam
     - Khadija and Fatima are two of /the four ladies of heaven/
     # https://www.muslim.sg/articles/4-women-of-paradise
 
 
-#+latex: \vspace{1em}
+# +latex: \vspace{1em}
 
 * Childhood
 
-  He became an orphan at the age of 6, then his grandfather Abd Al-Muttalib took
-  care of him, then his uncle Abu Talib took care of him and his aunt Fatima
-  bint Asad essentially became his mother.
+  He {{{S}}} became an orphan at the age of 6, then his grandfather Abd Al-Muttalib
+  took care of him, then his uncle Abu Talib took care of him and his aunt
+  Fatima bint Asad essentially became his mother.
 
-  \room
-  Later the Prophet joined his uncle on business trips and gained the title
-  Al-Sadiq Al-Amin ---/the truthful and trustworthy one/.
+  #+latex: \vspace{-0.5em}
 
-#+latex: \vspace{1em}
+  Later the Prophet {{{S}}} joined his uncle on business trips and gained the
+  title Al-Sadiq Al-Amin ---/the truthful and trustworthy one/.
+
+# +latex: \vspace{1em}
 
 * Nicknames
 
-# +latex: {\color{white}.}\vspace{-1em}
+#+latex: {\color{white}.}\vspace{-1em}
 
 # Increase space between rows
-#+latex: \renewcommand{\arraystretch}{2}
+#+latex: \renewcommand{\arraystretch}{1.5}
 
   #+ATTR_LaTeX: :align |l|c|l|
   |----------------------+---+--------------------------------------------------|
@@ -74,8 +103,35 @@
   |----------------------+---+--------------------------------------------------|
 
 
-#+latex: \vfill
-* A quick look at the Prophet's life
+# +latex: \vfill
+
+* Why “{{{S}}}” and “{{{A}}}”?
+
+  # The Quran commands it, in 33:56.
+It is a matter of respect and love [[https://quran.com/33/56][⟨33:56⟩]]: The letter “@@latex:\mbox{\RL{ص}}@@”
+is the first letter of the /Arabic/ phrase “𝒮allallahu 𝒜layhi 𝒲a-alihi 𝒲a-sallam”
+(𝒮𝒜𝒲𝒲), which means “𝒫eace ℬe 𝒰pon ℋim and his ℋousehold” (𝒫ℬ𝒰ℋℋ).  Likewise for
+“@@latex:\mbox{\RL{ع}}@@”; [[https://quran.com/37/181][⟨37:181⟩]], [[https://quran.com/19/15][⟨19:15⟩]], [[https://quran.com/37/120][⟨37:120⟩]].
+#
+# 37:79, 37:109, 37:120 , 37:130 , 37:181 , 19:15 , 19:33.
+# We say عليه السلام after the other Prophets. It transliterates to "Alayhi al-Salaam" from which the abbreviation AS is derived. It translates to "Peace be upon him" from which the abbreviation PBUH is derived.
+
+#+latex: \vspace{-0.7em}
+When referring to him, the Prophet {{{S}}} said we should say:
+/O Allah, bless Muhammad and the family of Muhammad as You blessed the family of
+Ibrahim. You are Praised and Glorious./
+
+# Many Sources: https://sunnah.com/search?q=the+family+of+Muhammad+as+You+blessed+the+family+of+Ibrahim.+You+are+Praised+and+Glorious.
+
+
+
+# ---which is sometimes abbreviated ‘PBUHH’
+# or ‘SAWW’.
+
+# Likewise the letter “@@latex:\mbox{\RL{ع}}@@” is the first letter of the /Arabic/
+# phrase /aliyah as-salam/ (/AS/) / “Peace be upon him/her”.
+
+* A quick look at the Prophet's  {{{S}}} life
 
 #+latex: {\color{white}.}\vspace{-1em}
 
@@ -85,17 +141,17 @@
 
   + 25 ⇒ Marries the businesswoman Khadija
 
-  + 35 ⇒ Birth of Fatima [[https://quran.com/108][⟨108⟩]] ([[https://www.al-islam.org/fatima-zahra-noble-quran-naser-makarem-shirazi][/Al-Islam!/]])
-
   + 40 ⇒ The angel Gabriel visited Muhammad requesting him to /recite/ [[https://quran.com/96][⟨96:1⟩]]
 
   + 43 ⇒ /Dawat al-ashira/; the Prophet began to publicly invite people to Islam,
     starting with his family [[https://quran.com/26/214][⟨26:214⟩]]
     # https://questionsonislam.com/question/how-did-prophet-pbuh-declare-his-prophethood-and-call-his-relatives-islam-first-phase-his
 
+  + 45 ⇒ Birth of Fatima {{{A}}} [[https://quran.com/108][⟨108⟩]] ([[https://www.al-islam.org/fatima-zahra-noble-quran-naser-makarem-shirazi][/Al-Islam!/]])
+
   + 49 ⇒ The Prophet travels to Jerusalem [[https://quran.com/17][⟨17⟩]] and to heaven [[https://quran.com/53][⟨53⟩]]
 
-  + 50 (“1 AH” / 622 CE) ⇒ Emigration from Mecca to Medina/Yathrib
+  + 53 (“1 AH” / 622 CE) ⇒ Emigration from Mecca to Medina/Yathrib
     [[https:/(reported ascension to heaven to meet God)/quran.com/16/41][⟨16:41⟩]]
     # https://www.dar-alifta.org/Foreign/ViewArticle.aspx?ID=1797&CategoryID=5
 
@@ -121,12 +177,13 @@
 #      as leading to polytheism, /shirk/.
 
 
-#+latex: \vfill
+# +latex: \vfill
 
 
-#+latex: \vspace{1em}
+# +latex: \vspace{1em}
 * Event of Mubahalah
-In 10 AH, a group of Christians disputed with the Prophet about Isa ibn Maryam, Jesus.
+In 10 AH, a group of Christians disputed with the Prophet {{{S}}} about Isa ibn
+Maryam, Jesus.
 
 - Like prophet Jesus, prophet Adam also had no father; moreover, he also had no mother.
 
@@ -134,19 +191,21 @@ In 10 AH, a group of Christians disputed with the Prophet about Isa ibn Maryam, 
       Each group should ask God to destroy the liars.
 
 \room
-Quran 3:61 mentions our sons, our women, and ourselves in reference
-  to who the Prophet took with him: Hassan and Hussein, Fatimah, and Ali.
+
+[[https://quran.com/3/61][⟨Quran 3:161⟩]] mentions “our sons”, “our women”, and “ourselves” in reference to
+who the Prophet {{{S}}} took with him: Hassan {{{A}}} and Hussein {{{A}}},
+Fatimah {{{A}}}, and Ali {{{A}}}.
 
 \room
-The Prophet has said:
-  + /Hassan and Hussein are the masters of the youth of paradise./
+The Prophet {{{S}}} has said:
+  + /Hassan {{{A}}} and Hussein {{{A}}} are the masters of the youth of paradise./
   + /All the people of paradise are youths./
 
 # Imam Sadiq has said that [[https://quran.com/16/16][⟨16:16⟩]] means the Prophet is the star and the landmarks
 # are the Imams.
 
 
-#+latex: \vspace{1em}
+# +latex: \vspace{1em}
 * Further Islamic Stories from /Al-Islam.org/
 
 + [[https://www.al-islam.org/stories-bahlool][Stories of Bahlool]]
@@ -156,7 +215,3 @@ The Prophet has said:
 + [[https://www.al-islam.org/short-stories-amina-bint-al-huda][Short Stories by Amina bint Al-huda]] ---she is the sister of Ayatullah Sayyid
   Mohammad Baqir al-Sadr and she is an activist who created Islamic awareness
   among the Muslim women of Iraq.
-
-* COMMENT newpage :ignore:
-
-  \newpage
